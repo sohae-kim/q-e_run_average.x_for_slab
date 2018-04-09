@@ -1,4 +1,6 @@
 # q-e_pp
+Generate avg.in as an input file for average.x; run average.x; and generate two output files that include averaged and not-averaged electrostatic potential along z in the length unit of Å relative to the interfacial Ti atom and the electrostatic potential relative to Fermi level.
+
 Run 1_pot_avg.py, 2_run_avg and 3_b2A_Ry2eV.py in order.
 Example files will be updated after mid-May 2018 after I finish up urgent stuffs. ;)
 
