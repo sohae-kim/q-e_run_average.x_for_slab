@@ -1,0 +1,4 @@
+average.x < avg.in > avg.out 
+tail -3 avg.out
+echo "2_run_avg: done"
+
